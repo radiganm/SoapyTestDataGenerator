@@ -1,0 +1,7 @@
+* SoapyTestDataGenerator
+
+Test Data Generator Plugin for SoapySDR
+
+#+CAPTION: SoapyTestDataGenerator
+#+TITLE: Test Data Generator Plugin for SoapySDR
+#+AUTHOR: Mac Radigan
